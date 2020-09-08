@@ -1,0 +1,13 @@
+D:\CODE\c#\Strips\Strips\bin\Debug\Strips.exe.config
+D:\CODE\c#\Strips\Strips\bin\Debug\Strips.exe
+D:\CODE\c#\Strips\Strips\bin\Debug\Strips.pdb
+D:\CODE\c#\Strips\Strips\obj\Debug\Strips.exe
+D:\CODE\c#\Strips\Strips\obj\Debug\Strips.pdb
+D:\CODE\c#\Strips\Strips\obj\Debug\Strips.csprojResolveAssemblyReference.cache
+Z:\Studium\IA-VT\blocks_world\Strips\bin\Debug\Strips.exe.config
+Z:\Studium\IA-VT\blocks_world\Strips\bin\Debug\Strips.exe
+Z:\Studium\IA-VT\blocks_world\Strips\bin\Debug\Strips.pdb
+Z:\Studium\IA-VT\blocks_world\Strips\obj\Debug\Strips.csprojAssemblyReference.cache
+Z:\Studium\IA-VT\blocks_world\Strips\obj\Debug\Strips.csproj.CoreCompileInputs.cache
+Z:\Studium\IA-VT\blocks_world\Strips\obj\Debug\Strips.exe
+Z:\Studium\IA-VT\blocks_world\Strips\obj\Debug\Strips.pdb
